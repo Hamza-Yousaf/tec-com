@@ -1,0 +1,708 @@
+/* technology-coaching-consulting */
+.lazy-img span {
+display: block !important;
+}
+.heading {
+  text-align: center;
+}
+.heading1 {
+  text-align: center;
+}
+.each-slide > div {
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 100px !important;
+  width: 200px !important;
+}
+
+.each-slide span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
+}
+.slideimage {
+  display: flex;
+}
+
+.tcc-zomp-bg {
+  background: #39a78e;
+}
+
+.tcc-blue-bg {
+  background: #741fff;
+}
+
+.tcc-lightoffblue1-bg {
+  background: #007e8f;
+}
+
+.tcc-ocean-blue-bg {
+  background: #5050bf;
+}
+
+.tcc-gray-bg {
+  background: #eaeaea;
+}
+
+.tcc-white-bg {
+  background: #f8f8f9;
+}
+
+.tcc-bondi-blue-bg {
+  background: #0090ad;
+}
+
+.tcc-young-bug-bg {
+  background: #86af38;
+}
+
+.tcc-zircon-bg {
+  background: #e3eeee;
+}
+
+.tcc-dark-orange-bg {
+  background: #ff8d03;
+}
+
+.tcc-red-bg {
+  background: #f22727;
+}
+
+.tcc-young-bug {
+  color: #86af38;
+}
+
+.advisory-block-black {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  height: 409px;
+  padding: 120px 50px 0px;
+}
+.advisory-block-black h2 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 124%;
+  color: black;
+  margin-bottom: 16px;
+}
+.advisory-block-black p {
+  font-size: 17px;
+  line-height: 140%;
+  color: black;
+}
+
+/* end */
+
+/*custom-software-development*/
+
+.lazy-loading-csd span {
+  width: 100%;
+}
+.heading {
+  text-align: center;
+}
+.heading1 {
+  text-align: center;
+}
+.backimg {
+  background-image: url(/images/custom.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.backimg1 {
+  background-image: url(/images/custom9.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.backimg2 {
+  background-image: url(/images/custom4.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.backimg3 {
+  background-image: url(/images/custom3.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.backimg4 {
+  background-image: url(/images/custom2.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.backimg5 {
+  background-image: url(/images/custom1.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.backimg6 {
+  background-image: url(/images/custom-opacity.png);
+  background-size: cover;
+}
+
+.bg-dark-orange {
+  background: #ff8d03;
+}
+
+.color-white {
+  background: #f2f3f5;
+}
+.color-red {
+  color: #f22727 !important;
+}
+
+.colaboration-block-new {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 50px 50px 50px;
+  background: #86af38;
+  align-items: center;
+}
+.colaboration-block-new h2 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 124%;
+  color: #fff;
+  margin-bottom: 16px;
+}
+.colaboration-block-new p {
+  font-size: 12px;
+  line-height: 140%;
+  color: #fff;
+  height: 220px;
+  margin: auto;
+}
+.colaboration-block-new {
+  padding: 40px;
+}
+
+.software-develop-new {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  height: 409px;
+  padding: 50px 50px 0px;
+}
+.software-develop-new h3 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 124%;
+  color: black;
+  margin-bottom: 20px;
+}
+.software-develop-new p {
+  font-size: 17px;
+  line-height: 140%;
+  color: black;
+}
+
+.software-develop-new {
+  padding: 30px 30px 0px;
+}
+.software-develop-new h3 {
+  font-size: 22px;
+}
+.software-develop-new p {
+  font-size: 15px;
+}
+
+.software-dev-listblock-new {
+  padding: 0px 50px;
+}
+.software-dev-listblock-new li {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 160%;
+  color: black;
+}
+.software-dev-listblock-new li span {
+  margin-right: 10px;
+}
+
+.compilance-common-block-new {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  height: 409px;
+  padding: 70px 50px 0px;
+}
+.compilance-common-block-new h2 {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.315em;
+  text-transform: uppercase;
+  color: red;
+  margin-bottom: 10px;
+}
+.compilance-common-block-new h3 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 124%;
+  color: black;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+.compilance-common-block-new h3 span {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: red;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 140%;
+  margin-right: 18px;
+}
+.compilance-common-block-new p {
+  font-size: 26px;
+  line-height: 140%;
+  color: black;
+}
+
+/*end*/
+/*technology-coaching-services*/
+
+.ocean-blue-color {
+  background: #5050bf;
+}
+
+.light-grayish-color {
+  background: #ede8dd;
+}
+
+.tech-coaching-block-new {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  min-height: 409px;
+  height: 100%;
+  padding: 60px 50px;
+}
+.tech-coaching-block-new h2 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 124%;
+  color: black;
+  margin-bottom: 8px;
+}
+.tech-coaching-block-new p {
+  font-size: 17px;
+  line-height: 140%;
+  color: black;
+  font-weight: 400;
+}
+
+.tech-coaching-block-new p span {
+  font-weight: 700;
+}
+
+.tech-coaching-block-new .tech-coach-list2 h3 {
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 120%;
+  color: #ffffff;
+  margin-bottom: 20px;
+  max-width: 254px;
+}
+.tech-coaching-block-new h3 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 124%;
+}
+
+.tech-coaching-block-new {
+  padding: 40px 30px;
+}
+
+.tech-coaching-block-new h3 {
+  font-size: 22px;
+}
+.tech-coaching-block-new p {
+  font-size: 15px;
+}
+
+.tech-block-no {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+}
+.block-no-clr1 {
+  background: #a6c8c7;
+}
+.block-no-clr2 {
+  background: #b0c86f;
+}
+.block-no-clr3 {
+  background: #9fa9be;
+}
+.block-no-clr4 {
+  background: #9dbcd4;
+}
+
+.block-no-clr5 {
+  background: rgba(176, 200, 111, 1);
+}
+
+.tech-tools-jjurny-btn-1 {
+  font-size: 14px;
+  line-height: 100%;
+  text-align: center;
+  color: #f2f2f2;
+  width: 100%;
+  max-width: 135px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #f2f2f2;
+  box-sizing: border-box;
+  margin-bottom: 16px;
+}
+.tech-tools-jjurny-btn-1:hover {
+  color: #fff;
+}
+
+.tech-tools-jjurny-btn-2 {
+  font-size: 14px;
+  line-height: 100%;
+  text-align: center;
+  color: #f2f2f2;
+  width: 100%;
+  max-width: 198px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #f2f2f2;
+  box-sizing: border-box;
+}
+.tech-tools-jjurny-btn-2:hover {
+  color: #fff;
+}
+
+/*end*/
+
+/*startup*/
+
+.azure-color {
+  background: #f4fafa;
+}
+
+.tech-bloc-bg4 {
+  background-position: 100%;
+}
+
+.startup-mvp-time-right h3 {
+  color: white;
+}
+.startup-mvp-time-right ul li span:nth-child(1){
+  color: white;
+}
+.startup-mvp-time-right ul li span:nth-child(2){
+  color: white;
+}
+.startup-total-val span:first-child{
+  color: white;
+}
+.startup-total-val span:last-child{
+  color: white;
+}
+.startup-mk-top-text {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 120%;
+  color: #7b05b2;
+  left: 128px;
+  top: -63px;
+  width: 129px;
+  word-wrap: break-word;
+  display: block;
+}
+.startup-mk-top-text span {
+  display: block;
+  margin-bottom: 10px;
+}
+.startup-benefit-outsource a {
+  color: #741fff !important;
+}
+.hire a {
+  color: #741fff !important;
+}
+/* .mr-md-3 a {
+  color: #741fff !important;
+}
+.startup-cmmn-btn {
+  color: fff !important;
+} */
+
+.startup-centent-block-new {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* min-height: 409px; */
+  height: 100%;
+  padding: 55px 50px 50px;
+}
+.startup-centent-block-new h2 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  color: black;
+  margin-bottom: 16px;
+}
+.startup-centent-block-new p {
+  font-size: 18px;
+  line-height: 140%;
+  color: black;
+  font-weight: 400;
+}
+.startup-centent-block-new p span {
+  font-weight: 700;
+}
+
+/*end*/
+
+/*media query*/
+
+@media (max-width: 1540px) {
+  .advisory-block-black {
+    height: 330px;
+    padding: 50px 30px 0px;
+  }
+  .advisory-block-black p {
+    font-size: 15px;
+  }
+  .compilance-common-block-new p {
+    font-size: 21px;
+  }
+  .compilance-common-block-new {
+    height: 400px;
+  }
+  .startup-centent-block-new {
+    padding: 55px 50px 50px;
+    height: 100%;
+  }
+  .startup-centent-block-new {
+    padding: 50px 30px;
+  }
+  .startup-centent-block-new p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 1480px) {
+  .software-develop-new {
+    height: 320px;
+  }
+  .tech-coaching-block-new p {
+    font-size: 14px;
+  }
+  .tech-coaching-block-new {
+    /* min-height: 330px; */
+  }
+  .tech-coaching-block-new h3 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1366px) {
+  .advisory-block-black {
+    height: 312px;
+  }
+  .advisory-block-black h2,
+  .adv-technology-coaching h2 {
+    font-size: 26px;
+  }
+  .software-develop-new p {
+    font-size: 14px;
+  }
+  .software-develop-new h3 {
+    font-size: 20px;
+  }
+  .software-dev-listblock-new li {
+    font-size: 15px;
+  }
+  .compilance-common-block-new {
+    height: 350px;
+    padding: 50px 50px;
+  }
+  .compilance-common-block-new p {
+    font-size: 19px;
+  }
+  .tech-coaching-block-new .tech-coach-list2 h3 {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 1286px) {
+  .software-develop-new p {
+    font-size: 12px;
+  }
+  .software-develop-new h3 {
+    font-size: 18px;
+  }
+  /* .software-develop {
+    height: 280px;
+  } */
+  .advisory-block-black {
+    height: 277px;
+  }
+  .advisory-block-black p {
+    font-size: 12px;
+  }
+  .software-dev-listblock-new li {
+    font-size: 14px;
+  }
+  .compilance-common-block-new p {
+    font-size: 17px;
+  }
+  .compilance-common-block-new {
+    height: 320px;
+  }
+  .compilance-common-block-new h3 {
+    font-size: 42px;
+  }
+  .tech-coaching-block-new p {
+    font-size: 13px;
+  }
+  .tech-coaching-block-new h3 {
+    font-size: 18px;
+  }
+  .startup-centent-block-new p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .software-develop-new {
+    height: 409px;
+  }
+  .software-develop-new h3 {
+    font-size: 24px;
+  }
+  .software-develop-new p {
+    font-size: 17px;
+  }
+  .software-dev-listblock-new li {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 840px) {
+  .compilance-common-block-new {
+    height: auto;
+    padding: 30px;
+  }
+  .compilance-common-block-new p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 767px) {
+  .compilance-common-block-new h3 {
+    font-size: 28px;
+  }
+  .compilance-common-block-new {
+    height: auto;
+    padding: 30px;
+  }
+
+  .tech-tools-jjurny-btn-1,
+  .tech-tools-jjurny-btn-2 {
+    max-width: 100%;
+  }
+  .tech-tools-btn span {
+    width: 100%;
+  }
+  .startup-centent-block-new h2 {
+    font-weight: 700;
+    font-size: 22px;
+  }
+  .startup-centent-block-new {
+    padding: 40px 30px;
+    height: auto;
+    min-height: auto;
+  }
+  .startup-centent-block-new img {
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .software-dev-listblock-new li {
+    font-size: 18px;
+  }
+  .tech-coaching-block-new.tech-coaching-bg {
+    height: 322px;
+  }
+  .tech-coaching-block-new {
+    min-height: auto;
+    padding: 60px 30px;
+    height: 100%;
+  }
+  .startup-centent-block-new p {
+    font-size: 13px;
+  }
+  .startup-centent-block-new img {
+    height: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .tech-coaching-block-new {
+    padding: 30px 20px;
+  }
+  .startup-centent-block-new {
+    text-align: center;
+  }
+}
+
+@media (max-width: 375px) {
+  .software-develop-new p {
+    font-size: 14px;
+  }
+  .software-dev-listblock-new li {
+    font-size: 14px;
+  }
+  .compilance-common-block-new p {
+    font-size: 15px;
+  }
+  .compilance-common-block-new h3 {
+    font-size: 22px;
+  }
+}
+
+/*end*/
